@@ -1,0 +1,12 @@
+plant,symptom_1,symptom_2,symptom_3,disease,treatment
+Tomato,leaf_spot,yellow_leaf,wilt,Early_blight,Fungicide + Prune infected leaves
+Tomato,yellow_leaf,wilt,brown_spot,Tomato_Yellow_Leaf_Curl,Remove infected plants
+Tomato,brown_spot,dry_leaves,leaf_curl,Use resistant varieties,
+Corn,leaf_spot,stunted_growth,dry_leaves,Common_rust,Apply fungicide and rotate crops
+Corn,stunted_growth,leaf_spot,brown_spot,Leaf_blight,Use certified seeds
+Corn,dry_leaves,yellow_leaf,wilt,Maize_streak_virus,Use virus-resistant hybrids
+Potato,brown_spot,wilt,leaf_curl,Potato_Blight,Use mancozeb + copper fungicide
+Potato,leaf_spot,dry_leaves,yellow_leaf,Early_blight,Destroy infected crops
+Wheat,stunted_growth,dry_leaves,brown_spot,Leaf_rust,Apply triazole fungicides
+Wheat,yellow_leaf,leaf_spot,leaf_curl,Stripe_rust,Apply foliar fungicides
+Wheat,dry_leaves,stunted_growth,wilt,Fusarium_wilt,Improve drainage + crop rotation
